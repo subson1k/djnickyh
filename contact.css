@@ -1,0 +1,256 @@
+body {
+  padding: 0;
+  border: 0;
+  overflow-x: hidden;
+  background-color: rgb(143, 143, 146);
+}
+
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+@font-face {
+  src: url("Excludeditalic-jEr99.ttf");
+  font-family: nicky;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(270deg);
+  }
+  50% {
+    transform: rotate(540deg);
+  }
+  75% {
+    transform: rotate(760deg);
+  }
+  100% {
+    transform: rotate(720deg);
+  }
+}
+
+#formDiv {
+  position: absolute;
+  padding: 0;
+  border: 0;
+  top: 0vh;
+  left: 0vw;
+  width: 100vw;
+  height: 100vh;
+}
+
+#records {
+  position: absolute;
+  top: 0vh;
+  left: 0vw;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0.8;
+  display: block;
+}
+
+#records-small {
+  position: absolute;
+  top: 0vh;
+  left: 0vw;
+  width: 100vw;
+  height: 100vh;
+  opacity: 0.8;
+  display: none;
+}
+
+#backArrow {
+  position: absolute;
+  float: left;
+  top: 100px;
+  left: 25px;
+  width: 40px;
+  height: 50px;
+  z-index: 4;
+}
+
+.vinyl {
+  position: absolute;
+  top: 5vh;
+  left: 30vw;
+  width: 40vw;
+
+  z-index: 2;
+}
+
+#form {
+  position: absolute;
+  width: 50vw;
+  height: 50vh;
+  top: 35vh;
+  left: 25vw;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: black;
+  background-color: rgb(116, 116, 116);
+}
+
+#name {
+  position: absolute;
+  top: 2vh;
+  left: 5vw;
+  width: 40vw;
+  height: 3vh;
+  font-size: 40px;
+  font-family: nicky;
+}
+
+#email {
+  position: absolute;
+  top: 7vh;
+  left: 5vw;
+  width: 40vw;
+  height: 3vh;
+  font-size: 40px;
+  font-family: nicky;
+}
+#info {
+  position: absolute;
+  top: 12vh;
+  left: 5vw;
+  width: 40vw;
+  height: 25vh;
+  font-size: 40px;
+  font-family: nicky;
+}
+
+#submit {
+  position: absolute;
+  top: 40vh;
+  width: 10vw;
+  height: 5vh;
+  left: 20vw;
+  font-family: nicky;
+  font-size: 30px;
+}
+
+#home {
+  position: absolute;
+
+  top: 90vh;
+  width: 10vw;
+  height: 5vh;
+  left: 45vw;
+  font-family: nicky;
+  font-size: 30px;
+  visibility: visible;
+}
+
+#home a {
+  text-decoration: none;
+  visibility: visible;
+  color: grey;
+}
+
+#h11 {
+  position: relative;
+  left: 40px;
+  font-size: 40px;
+  font-family: nicky;
+  visibility: visible;
+}
+
+@media (max-width: 1300px) {
+  .vinyl {
+    position: absolute;
+    top: 1vh;
+    left: 20vw;
+    width: 60vw;
+
+    z-index: 2;
+  }
+  #form {
+    position: absolute;
+    width: 60vw;
+    height: 50vh;
+    top: 25vh;
+    left: 20vw;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: black;
+    background-color: rgb(116, 116, 116);
+  }
+
+  #name {
+    position: absolute;
+    top: 2vh;
+    left: 10vw;
+    width: 40vw;
+    height: 3vh;
+    font-size: 40px;
+    font-family: nicky;
+  }
+
+  #email {
+    position: absolute;
+    top: 7vh;
+    left: 10vw;
+    width: 40vw;
+    height: 3vh;
+    font-size: 40px;
+    font-family: nicky;
+  }
+  #info {
+    position: absolute;
+    top: 12vh;
+    left: 10vw;
+    width: 40vw;
+    height: 25vh;
+    font-size: 40px;
+    font-family: nicky;
+  }
+
+  #submit {
+    position: absolute;
+    top: 40vh;
+    width: 10vw;
+    height: 3vh;
+    left: 25vw;
+    font-family: nicky;
+    font-size: 20px;
+  }
+
+  #home {
+    position: absolute;
+
+    top: 80vh;
+    width: 10vw;
+    height: 3vh;
+    left: 45vw;
+    font-family: nicky;
+    font-size: 20px;
+    visibility: visible;
+  }
+}
+
+@media (max-width: 1000px) {
+  #records {
+    position: absolute;
+    top: 0vh;
+    left: 0vw;
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.8;
+    display: none;
+  }
+
+  #records-small {
+    position: absolute;
+    top: 0vh;
+    left: 0vw;
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.8;
+    display: block;
+  }
+}

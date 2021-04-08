@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="260mm"
+   width="500mm"
+   sodipodi:docname="playaRenzy.svg"
+   version="1.1"
+   id="svg840"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-filename="C:\Users\Nick\OneDrive\Documents\djnickyh\vinyl88.png"
+   inkscape:export-xdpi="58.284599"
+   inkscape:export-ydpi="58.284599">
+  <sodipodi:namedview
+     width="280mm"
+     units="mm"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32"
+     inkscape:cx="976.96304"
+     inkscape:cy="502.00152"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:document-rotation="0">
+    <sodipodi:guide
+       id="guide_baseline"
+       inkscape:label="baseline"
+       position="0,253"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_ascender"
+       inkscape:label="ascender"
+       position="-15.624996,998.30217"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_caps"
+       inkscape:label="caps"
+       position="0,896"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_xheight"
+       inkscape:label="xheight"
+       position="0,729"
+       orientation="0,1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       id="guide_descender"
+       inkscape:label="descender"
+       position="0,28"
+       orientation="0,1"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="446.89148"
+       y="462.59885"
+       id="text824" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:ExcludedItalic;-inkscape-font-specification:'ExcludedItalic, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.58173"
+       x="36.936424"
+       y="156.37396"
+       id="text828"
+       transform="scale(0.97195823,1.0288508)"><tspan
+         sodipodi:role="line"
+         id="tspan826"
+         x="36.936424"
+         y="156.37396"
+         style="font-size:192px;fill:#ffffff;stroke:#ffffff;stroke-width:2.58173">Bassbreakz fm</tspan><tspan
+         id="tspan901"
+         sodipodi:role="line"
+         x="36.936424"
+         y="396.37399"
+         style="font-size:192px;fill:#ffffff;stroke:#ffffff;stroke-width:2.58173">Radio show</tspan><tspan
+         id="tspan903"
+         sodipodi:role="line"
+         x="36.936424"
+         y="636.37396"
+         style="font-size:192px;fill:#ffffff;stroke:#ffffff;stroke-width:2.58173">26/2/17</tspan><tspan
+         id="tspan905"
+         sodipodi:role="line"
+         x="36.936424"
+         y="876.37396"
+         style="font-size:192px;fill:#ffffff;stroke:#ffffff;stroke-width:2.58173">[For renzy mix]</tspan></text>
+  </g>
+</svg>
